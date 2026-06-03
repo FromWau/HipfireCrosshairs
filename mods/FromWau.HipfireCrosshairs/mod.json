@@ -1,0 +1,7 @@
+{
+    "Name": "FromWau.HipfireCrosshairs",
+    "Description": "Gives the snipers (Kraber, Longbow-DMR, DoubleTake) the Wingman Elite crosshair (ui/crosshair_wingman_n) when unscoped, so hipfire has a usable crosshair. Client-side keyvalues patch.",
+    "Version": "1.0.0",
+    "LoadPriority": 2,
+    "Authors": ["FromWau"]
+}

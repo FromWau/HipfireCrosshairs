@@ -1,0 +1,12 @@
+// Partial patch: override only the hipfire crosshair UI, merge the rest.
+// DoubleTake unscoped -> Wingman Elite crosshair.
+WeaponData
+{
+	RUI_CrosshairData
+	{
+		Crosshair_1
+		{
+			"ui"						"ui/crosshair_wingman_n"
+		}
+	}
+}
